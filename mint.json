@@ -1,16 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "Atelierkit",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
   },
   "favicon": "/favicon.png",
+
   "colors": {
-    "primary": "#0069ED",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "primary": "#00D537",
+    "light": "#00D537",
+    "dark": "#6187FE"
   },
+
   "topbarLinks": [
     {
       "name": "Documentation",
